@@ -1,16 +1,26 @@
 # flutter_shopping_app
 
-A new Flutter application.
+![GitHub license](https://img.shields.io/github/license/oussamabonnor1/JetConverter.svg)
+![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
 
-## Getting Started
+## Description:
+This is my first "big" project (sort of speaking) using flutter, i plan to add a few tweeks to it but so far i'm satisfied with the flutter project structure and the general usage of the UI tree. 
 
-This project is a starting point for a Flutter application.
+## Tools & languages: 
+* Android Studio (IDE).
+* Dart (Logic & Design).
+* Flutter (Mobile UI developement kit).
+* Paint.Net (Image editting).
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots: 
+![Tabs](Screenshots/tabs.gif)![Search](Screenshots/search.gif)![Animation](Screenshots/animation.gif) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Contribution:
+Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Special Thanks:
+ #### This design was directly inspired by [Sina Amiri](https://dribbble.com/sinaamiri).
+ #### The hero animation was a tip from [AlaaEdAouimeur](https://github.com/AlaaEdAouimeur).
+
+## Team:
+[Jetlighters](https://github.com/JetLightStudio) having fun.

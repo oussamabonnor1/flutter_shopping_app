@@ -15,6 +15,17 @@ This is my first "big" project (sort of speaking) using flutter, i plan to add a
 ## Screenshots: 
 ![Tabs](Screenshots/tabs.gif) ![Search](Screenshots/search.gif) ![Animation](Screenshots/animation.gif) 
 
+## Features:
+* Tabs for differents products categories.
+* Search functions that works through changing tabs.
+* Animating transitions between landing page and product detail page.
+
+## TODO:
+* [ ] Hook the app with a shopping API.
+* [ ] Adding accounts for shoppers.
+* [ ] Exploring E-Payement in Flutter.
+* [ ] Adding rating and charts.
+
 ## Contribution:
 Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
 

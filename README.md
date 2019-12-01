@@ -13,7 +13,7 @@ This is my first "big" project (sort of speaking) using flutter, i plan to add a
 * Paint.Net (Image editting).
 
 ## Screenshots: 
-![Tabs](Screenshots/tabs.gif)![Search](Screenshots/search.gif)![Animation](Screenshots/animation.gif) 
+![Tabs](Screenshots/tabs.gif) ![Search](Screenshots/search.gif) ![Animation](Screenshots/animation.gif) 
 
 ## Contribution:
 Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.

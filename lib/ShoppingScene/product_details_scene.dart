@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_design_showcase/ShoppingScene/shopping_model.dart';
-import 'package:flutter_design_showcase/ShoppingScene/shopping_scene.dart';
+import 'package:flutter_shopping_app/ShoppingScene/shopping_model.dart';
+import 'package:flutter_shopping_app/ShoppingScene/shopping_scene.dart';
 
 class ProductDetails extends StatefulWidget {
   ShoppingModel product;

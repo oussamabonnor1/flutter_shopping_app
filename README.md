@@ -1,6 +1,6 @@
 # flutter_shopping_app
 
-![GitHub license](https://img.shields.io/github/license/oussamabonnor1/JetConverter.svg)
+![GitHub license](https://img.shields.io/github/license/oussamabonnor1/flutter_shopping_app.svg)
 ![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
 
 ## Description:
